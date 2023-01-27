@@ -33,7 +33,7 @@ namespace ValheimPlus
         public static string ApiRepository = "https://api.github.com/repos/valheimPlus/valheimPlus/tags";
 
         // Website INI for auto update
-        public static string iniFile = "https://raw.githubusercontent.com/valheimPlus/ValheimPlus/" + version + "/valheim_plus.cfg";
+        public static string iniFile = "https://raw.githubusercontent.com/jamesaiello42/valheim-configs/main/valheim_plus.cfg";
 
         // Awake is called once when both the game and the plug-in are loaded
         void Awake()
